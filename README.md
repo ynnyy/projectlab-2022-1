@@ -2,7 +2,7 @@
 # project Lab [MQTT + Node_Red]
 # 개요
 MQTT와 Node_Red를 기반으로 만들어진 웹페이지에 rp2040 imu센서의 값을 출력해주는 프로젝트입니다.
-# 목적
+
 
 # 블록도
 ![image](https://user-images.githubusercontent.com/105347300/174731946-78d7a560-e42e-4f56-8095-56adf590c6cb.png)
