@@ -5,7 +5,7 @@ MQTT와 Node_Red를 기반으로 만들어진 웹페이지에 rp2040 imu센서�
 
 
 # 블록도
-![image](https://user-images.githubusercontent.com/105347300/174731946-78d7a560-e42e-4f56-8095-56adf590c6cb.png)
+![image](https://user-images.githubusercontent.com/105347300/174740546-2e55374d-3c6e-43d8-a3f7-2b173625ded7.png)
 
 # 과제 내용
 rp2040에 달려있는 imu센서를 통해 사용자가 움직이는 가속도 값을 받아와 평균값을 구함.
