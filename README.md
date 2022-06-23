@@ -11,5 +11,9 @@ MQTT와 Node_Red를 기반으로 만들어진 웹페이지에 rp2040 imu센서�
 rp2040에 달려있는 imu센서를 통해 사용자가 움직이는 가속도 값을 받아와 평균값을 구함.
 구한 평균값으로 사용자의 상태를 판별해 run,walk,stand를 Node_Red에 chart 와 text로 출력.
 # 구현 영상
-https://user-images.githubusercontent.com/105347300/174726252-e4146177-f360-4571-8218-40f9dfdeecf5.mp4
+
+
+https://user-images.githubusercontent.com/105347300/175266328-edfd8d5e-f90c-45ec-bb01-faf4845abcb4.mp4
+
+
 
