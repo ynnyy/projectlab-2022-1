@@ -1,5 +1,6 @@
 # yn0212.github.io
-# project Lab [MQTT + Node_Red]
+# 웹 기반 imu 센서를 이용한 사용자 상태 모니터링 시스템
+project Lab [MQTT + Node_Red]
 # 개요
 MQTT와 Node_Red를 기반으로 만들어진 웹페이지에 rp2040 imu센서의 값을 출력해주는 프로젝트입니다.
 
